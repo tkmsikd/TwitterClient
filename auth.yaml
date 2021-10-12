@@ -1,0 +1,8 @@
+authentication:
+  access_token: something
+  access_token_secret: something
+  onsumer_key : something
+  consumer_secret: something
+  bearer_token: something
+  
+
